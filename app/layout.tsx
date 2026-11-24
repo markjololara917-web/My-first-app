@@ -3,8 +3,8 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "My First App",
-  description: "My first Next.js website",
+  title: "Markjolo Lara | Personal Site",
+  description: "A personal site built with Next.js",
 };
 
 export default function RootLayout({
